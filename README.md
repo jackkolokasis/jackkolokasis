@@ -28,6 +28,7 @@ Hi there 👋 I am Iacovos Kolokasis (nickname Jack). I am a 3rd-year PhD studen
 <img src="https://img.shields.io/badge/Research Interests-Managed Languages and Runtimes, Garbage Collection, Memory Systems-dodgerblue" />
 
 #### Statistics
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jackkolokasis&theme=dark" width="48%" >
-
-<img src="https://github-readme-stats.vercel.app/api?username=jackkolokasis&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackkolokasis&theme=dark" width="48%" >
+    <img src="https://github-readme-stats.vercel.app/api?username=jackkolokasis&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+</div>
