@@ -1,4 +1,6 @@
-<h4> Hi there 👋 I am Iacovos Kolokasis (nickname Jack). I am a 3rd-year PhD student
+## Iacovos G. Kolokasis
+
+Hi there 👋 I am Iacovos Kolokasis (nickname Jack). I am a 3rd-year PhD student
     in the 
     <a href="www.csd.uoc.gr">Computer Science Department at the University of Crete</a>, 
     working with <a href="https://users.ics.forth.gr/~bilas">Prof. Angelos Bilas</a>. 
@@ -17,7 +19,6 @@
     separate scanless managed heap over storage devices. It eliminates both
     garbage collection and serialization overheads without imposing any language
     restrictions.
-</h4>
   
   I am honored that my current work, during my doctoral studies, was awarded
   with the 
