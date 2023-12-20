@@ -16,8 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### Stats
- 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jackkolokasis&count_private=true&theme=onedark&showicons=true)]()
 
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jackkolokasis&langs_count=5&theme=onedark)]()
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jackkolokasis)](https://git.io/streak-stats)
